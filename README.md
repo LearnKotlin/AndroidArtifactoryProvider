@@ -14,6 +14,7 @@ Step by step approach to share your good work to community using Github and Jitp
 
 - Goto jitpack.io, copy github repo location lookup release tag
 ie., https://github.com/LearnKotlin/AndroidArtifactoryProvider
+Press "Get it" and wait till loading is complete and artifactory is built
 <img src="build_artifactory_jitpack.png" width="750" height="400">
 
 
