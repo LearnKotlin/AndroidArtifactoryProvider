@@ -17,6 +17,11 @@ ie., https://github.com/LearnKotlin/AndroidArtifactoryProvider
 Press "Get it" and wait till loading is complete and artifactory is built
 <img src="build_artifactory_jitpack.png" width="550" height="400">
 
+- Scroll down and find the maven repo location and dependency to be copied in consumer application
+Refer Sample: https://github.com/LearnKotlin/AndroidArtifactoryConsumer
+<img src="get-jitpack_dependency.png" width="550" height="400">
+
+
 
 
 
