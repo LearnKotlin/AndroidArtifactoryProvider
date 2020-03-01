@@ -10,7 +10,7 @@ Step by step approach to share your good work to community using Github and Jitp
 - perform gradle sync and push source code to github repo.
 
 - Create a new release by creating a new version tag, as specified in second step ie., version_number.
-<img src="dd_gitgub_tag.png" width="750" height="400">
+<img src="add_gitgub_tag.png" width="750" height="400">
 
 
 
