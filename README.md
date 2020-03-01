@@ -4,4 +4,5 @@ Step by step approach to share your good work to community using Github and Jitp
 
 - Create new Android project.
 - Create new Android library module which shares your code
+<img src="publish_config.png" width="600" height="790">
 
